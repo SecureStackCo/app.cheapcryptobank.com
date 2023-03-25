@@ -1,9 +1,6 @@
-# React Login Form Sample
+# CheapCryptoBank online application
+# WE built this to be purposedly vulnerable
 
-## Usage
+This project builds the CheapCryptoBankApp which you can find at https://app.cheapcryptobank.com
 
-### Run the app
-```
-$ npm install
-$ npm start
-```
+There are multiple components to this app.
