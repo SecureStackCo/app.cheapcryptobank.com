@@ -17,6 +17,8 @@ Solution: Add password complexity requirements, such as requiring a minimum pass
 
 Here is the updated code with the solutions for the above-mentioned vulnerabilities and bugs:
 
+````
+```
 import React, { useState } from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
@@ -69,6 +71,8 @@ fetch("https://example.com/login", {
     .then((response) => {
     if (!response.ok) {
         throw
+```
+````
 
 Additionally, this code contains several vulnerabilities that could potentially expose sensitive information or compromise the security of the application. These vulnerabilities include:
 
@@ -103,6 +107,8 @@ Additionally, this code contains several vulnerabilities that could potentially 
 
 The code below could benefit from some UI enhancements to make it more visually appealing and user-friendly. In order to achieve this, I provide sample code to improve the user interface, which includes the code below:
 
+````
+```
 import React from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Button from "@material-ui/core/Button";
@@ -223,5 +229,7 @@ export default function SignIn() {
     </Container>
   );
 }
+```
+````
 
 Thank you for the opportunity to apply for the Octernships program through GitHub, and for the chance to complete the Securestack task assignment. I have thoroughly enjoyed the experience of analyzing the provided code and identifying potential security vulnerabilities and UI enhancements. I am eager to further develop my skills and knowledge in software development, and I am excited about the possibility of being selected for the program. Thank you again for your consideration, and I hope to hear from you soon.
