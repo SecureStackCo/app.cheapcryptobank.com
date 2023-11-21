@@ -5,6 +5,6 @@ This project builds the CheapCryptoBankApp which you can find at https://app.che
 
 There are multiple components to this app:
 
-https://api.cheapcryptobank.com
+The API:  https://api.cheapcryptobank.com
 
-https://juiceshop.cheapcryptobank.com
+JuiceShop:  https://juiceshop.cheapcryptobank.com
